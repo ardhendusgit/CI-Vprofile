@@ -1,6 +1,8 @@
 ## General info
 This project aims to streamline the development and continuous integration process by automating the code commit and build processes using Jenkins and GitHub. Developers can make code changes locally and, upon verification, push them to a centralized GitHub repository.
 
+![Pipeline](src/CI-Pipeline.jpeg)
+
 ## Workflow
 * ## Code Commit and Jenkins Trigger
   - Developers write, test, and commit code changes locally.
